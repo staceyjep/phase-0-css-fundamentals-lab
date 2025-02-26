@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+figure img{
+  display: block;
+  margin: auto;
+}
+nav ul a{
+  background-color: gray;
+  padding: 10px;
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+}
+section#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+ 
+
+
+
+  
+  
+
+
